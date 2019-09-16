@@ -1,0 +1,35 @@
+p {
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+
+table {
+  margin:auto;
+}
+
+td {
+  width: 200px;
+  height: 500px;
+  margin-left: 20px;
+}
+
+.one{
+  margin-left: 300px;
+  background-color: #2B2D42;
+}
+
+.two{
+ background-color: #8D99AE;
+}
+
+.three{
+  background-color: #EDF2F4;
+}
+
+.four{
+  background-color: #EF233C;
+}
+
+.five{
+  background-color: #D90429;
+}
